@@ -57,8 +57,3 @@ python3 project.py <target> wordlist.txt
 ```
 
 ## Also feel free to check the pdf documentation which acts as the report to this miniproject.
-
-   
-
-   
-7. 
